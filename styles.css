@@ -3,7 +3,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background: url('background.jpg') no-repeat center center fixed;
+    background: url('https://github.com/username/repository-name/raw/main/images/1.jpg') no-repeat center center fixed;
     background-size: cover;
     color: #333;
     margin: 0;
